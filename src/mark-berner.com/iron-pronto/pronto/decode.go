@@ -1,7 +1,7 @@
 package pronto
 
-// #cgo LDFLAGS: -L${SRCDIR}/decodeir -ldecodeir -lstdc++
-// #include "decodeir/DecodeIR.h"
+// #cgo LDFLAGS: -lstdc++
+// #include "DecodeIR.h"
 import "C"
 import (
 	"fmt"
