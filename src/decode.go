@@ -1,4 +1,4 @@
-package pronto
+package src
 
 // #cgo LDFLAGS: -lstdc++
 // #include "DecodeIR.h"
