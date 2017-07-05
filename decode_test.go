@@ -1,4 +1,4 @@
-package pronto
+package src
 
 import (
 	"testing"

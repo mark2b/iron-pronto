@@ -1,4 +1,4 @@
-package src
+package iron_pronto
 
 // #cgo LDFLAGS: -lstdc++
 // #include "DecodeIR.h"
